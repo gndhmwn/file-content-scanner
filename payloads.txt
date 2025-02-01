@@ -1,0 +1,13 @@
+eval
+base64_decode
+system
+exec
+shell_exec
+passthru
+popen
+proc_open
+assert
+file_put_contents
+file_get_contents
+unlink
+fwrite
