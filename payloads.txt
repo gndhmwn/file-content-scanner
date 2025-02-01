@@ -11,3 +11,8 @@ file_put_contents
 file_get_contents
 unlink
 fwrite
+judi
+slot
+gacor
+lazada 
+shopee
